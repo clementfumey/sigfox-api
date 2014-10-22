@@ -1,0 +1,26 @@
+{
+  "name": "sigfox-api",
+  "version": "0.0.1",
+  "description": "nodejs module to access sigfox API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clementfumey/sigfox-api.git"
+  },
+  "keywords": [
+    "IoT",
+    "Sigfox",
+    "API"
+  ],
+  "author": "Clément FUMEY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clementfumey/sigfox-api/issues"
+  },
+  "homepage": "https://github.com/clementfumey/sigfox-api",
+  "devDependencies": {
+   }
+}
